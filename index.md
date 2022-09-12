@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Arya</span>
 <br><br>
 [HOME](.) ---
 [LINKS](https://AryaDaffaA.github.io/os222/LINKS/) ---
@@ -14,6 +14,4 @@ This is OS222 and I am Arya.
 This is the way!
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
+
