@@ -4,11 +4,9 @@
 <br><br>
 [HOME](.) ---
 [LINKS](https://AryaDaffaA.github.io/os222/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
 [LOG](TXT/mylog.txt) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/AryaDaffaA/os222)
 <br>
 <hr>
 This is OS222 and I am Arya.
