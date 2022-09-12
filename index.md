@@ -7,7 +7,7 @@
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/aryadaffaa.tar.xz) ---
+[TARBALL](SandBox/AryaDaffaA.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
