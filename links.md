@@ -15,8 +15,18 @@ permalink: LINKS/
 
 # LINKS
 
+## Week 01
+
 1. [Ask Ubuntu](https://askubuntu.com/)<br>
 IMO similiar to StackOverflow but this is about Linux stuffs. Might help in the future.
+
+## Week 03
+
+1. [File System in Operation System](https://www.scaler.com/topics/file-systems-in-os/)<br>
+Explains about file systems in operation system. Which is the main topic of W03 in OS.
+
+2. [Mounting File Systems in Linux](https://www.bleepingcomputer.com/tutorials/introduction-to-mounting-filesystems-in-linux/#:~:text=Mounting%20a%20filesystem%20simply%20means,floppy%2C%20or%20USB%20storage%20device.)<br>
+Explains about mounting file systems in Linux. One of the steps to do in doing weekly assignments.
 
 
 
