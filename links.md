@@ -28,7 +28,10 @@ Explains about file systems in operation system. Which is the main topic of W03 
 2. [Mounting File Systems in Linux](https://www.bleepingcomputer.com/tutorials/introduction-to-mounting-filesystems-in-linux/#:~:text=Mounting%20a%20filesystem%20simply%20means,floppy%2C%20or%20USB%20storage%20device.)<br>
 Explains about mounting file systems in Linux. One of the steps to do in doing weekly assignments.
 
+## Week 05
 
+1. [Top 20 Git Commands with Example](https://www.edureka.co/blog/git-commands-with-example/ "Open Link")
+This website contains git commands that IMO is quite useful with examples.
 
 <br>
 <hr>
