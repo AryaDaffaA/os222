@@ -33,6 +33,11 @@ Explains about mounting file systems in Linux. One of the steps to do in doing w
 1. [Top 20 Git Commands with Example](https://www.edureka.co/blog/git-commands-with-example/ "Open Link")
 This website contains git commands that IMO is quite useful with examples.
 
+## Week 06
+1. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+This website contains informations about how to fork() in C.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

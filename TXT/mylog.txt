@@ -25,3 +25,9 @@ ZCZC W05 100 L02 ZOOM meeting related
 ZCZC W05 100 L02 ZOOM meeting related
 ZCZC W05   2 L05 Quiz
 ZCZC W05  60 L09 Weekly assignment related
+ZCZC W06 100 L02 ZOOM meeting related
+ZCZC W06 100 L02 ZOOM meeting related
+ZCZC W06   3 L05 Quiz2
+ZCZC W06   3 L05 Quiz1
+ZCZC W06  60 L05 PopQuiz
+ZCZC W06  60 L09 Weekly assignment related
