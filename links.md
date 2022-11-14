@@ -37,6 +37,12 @@ This website contains git commands that IMO is quite useful with examples.
 1. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
 This website contains informations about how to fork() in C.
 
+## Week 07
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+This website contains the general information we need to know about Process Synchronization.
+
+2. [Deadlock in Operating System](https://www.guru99.com/deadlock-in-operating-system.html)
+This website explains about deadlock in Operating System including examples.
 
 <br>
 <hr>

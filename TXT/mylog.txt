@@ -31,3 +31,11 @@ ZCZC W06   3 L05 Quiz2
 ZCZC W06   3 L05 Quiz1
 ZCZC W06  60 L05 PopQuiz
 ZCZC W06  60 L09 Weekly assignment related
+ZCZC W07 100 L02 ZOOM meeting related
+ZCZC W07 100 L02 ZOOM meeting related
+ZCZC W07   3 L05 Quiz
+ZCZC W07   2 L05 Quiz
+ZCZC W07  30 L09 Weekly assignment related
+ZCZC W07  30 L25 Fixing Makefile
+ZCZC W07  30 L40 TXT/ in general
+
