@@ -44,6 +44,11 @@ This website contains the general information we need to know about Process Sync
 2. [Deadlock in Operating System](https://www.guru99.com/deadlock-in-operating-system.html)
 This website explains about deadlock in Operating System including examples.
 
+## Week 08
+1. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+This website explains about CPU Scheduling in Operating System.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
