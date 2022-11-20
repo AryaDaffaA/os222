@@ -38,4 +38,12 @@ ZCZC W07   2 L05 Quiz
 ZCZC W07  30 L09 Weekly assignment related
 ZCZC W07  30 L25 Fixing Makefile
 ZCZC W07  30 L40 TXT/ in general
-
+ZCZC W08 100 L02 ZOOM meeting related
+ZCZC W08   3 L05 Quiz
+ZCZC W08   3 L05 Quiz
+ZCZC W08 240 L09 Weekly Assignments
+ZCZC W08   5 L03 GitHub related
+ZCZC W08  10 L22 Linux related
+ZCZC W08  15 L05 PopQuiz
+ZCZC W08  10 L04 TXT/ related in general
+ZCZC W08  10 L43 TXT/myrank.txt related
