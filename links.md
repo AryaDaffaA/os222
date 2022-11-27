@@ -48,6 +48,12 @@ This website explains about deadlock in Operating System including examples.
 1. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
 This website explains about CPU Scheduling in Operating System.
 
+## Week 09
+1. [Mass Storage Management](https://www.tutorialspoint.com/Mass-Storage-Management)
+This website explains about mass storage management in operating systems.
+
+2. [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)
+This website explains about storage structure in operating systems.
 
 <br>
 <hr>

@@ -47,3 +47,10 @@ ZCZC W08  10 L22 Linux related
 ZCZC W08  15 L05 PopQuiz
 ZCZC W08  10 L04 TXT/ related in general
 ZCZC W08  10 L43 TXT/myrank.txt related
+ZCZC W09 100 L02 ZOOM meeting related
+ZCZC W09 100 L02 ZOOM meeting related
+ZCZC W09   3 L05 Quiz
+ZCZC W09   3 L05 Quiz
+ZCZC W09 150 L06 Weekly Assignments
+ZCZC W09  20 L40 TXT/ related
+ZCZC W09  15 L61 Backup Virtual Box
